@@ -1,5 +1,8 @@
 # Install Viper on Ubuntu
 
+# Prerequisite
+make sure you have python 3.6+ installed
+
 ## Download
 clone or download this repo
 
