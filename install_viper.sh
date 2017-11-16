@@ -15,4 +15,5 @@ cd viper
 # installing viper
 sudo python3 setup.py install
 
-
+# A better Python REPL
+sudo pip3 install ptpython
